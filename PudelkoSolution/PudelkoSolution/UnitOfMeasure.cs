@@ -1,7 +1,9 @@
-﻿namespace PudelkoSolution
+﻿namespace PudelkoLib
 {
-    public class UnitOfMeasure
+    public enum UnitOfMeasure
     {
-
+        milimeter,
+        centimeter,
+        meter
     }
 }
